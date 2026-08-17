@@ -209,7 +209,7 @@ Reviewer activity is not evenly distributed across regions, indicating differenc
 
 ### Executive Overview
 
-![Executive Overview](./screenshots/Executive%20Overview.png)
+![Executive Overview](https://github.com/Aji-bit/Wine-Tasting/blob/main/Executive%20Overview.png)
 
 ### Geographical Insights
 
