@@ -205,13 +205,15 @@ Reviewer activity is not evenly distributed across regions, indicating differenc
 
 # 6. Screenshot
 
-## Executive Overview
+## 📸 Dashboard Preview
 
-https://github.com/Aji-bit/Wine-Tasting/blob/main/Executive%20Overview.png
+### Executive Overview
 
-## Geographical Insights
+![Executive Overview](./screenshots/Executive%20Overview.png)
 
-https://github.com/Aji-bit/Wine-Tasting/blob/main/Geographical%20Insights.png
+### Geographical Insights
+
+![Geographical Insights](./screenshots/Geographical%20Insights.png)
 
 ---
 
