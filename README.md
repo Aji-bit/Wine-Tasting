@@ -211,7 +211,7 @@ https://github.com/Aji-bit/Wine-Tasting/blob/main/Executive%20Overview.png
 
 ## Geographical Insights
 
-![Beyond the Bottle - Geographical Insights](./screenshots/Geographical%20Insights.png)
+https://github.com/Aji-bit/Wine-Tasting/blob/main/Geographical%20Insights.png
 
 ---
 
